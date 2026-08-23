@@ -1,0 +1,31 @@
+[ {
+  "id" : "1ba433cd-8c10-4aa9-839f-775341967c39",
+  "description" : "Wake up early",
+  "status" : "TODO",
+  "createdAt" : "2026-08-19T09:18:52.498089",
+  "updatedAt" : "2026-08-19T09:18:52.498098"
+}, {
+  "id" : "e03ba2aa-45c4-401d-99d2-8bfcf9118d5b",
+  "description" : "Buy products",
+  "status" : "DONE",
+  "createdAt" : "2026-08-19T09:18:59.877563",
+  "updatedAt" : "2026-08-19T13:46:17.500235"
+}, {
+  "id" : "f5b67037-8413-405d-b557-d6e4b63cabc5",
+  "description" : "Sleep early",
+  "status" : "TODO",
+  "createdAt" : "2026-08-19T09:19:04.54914",
+  "updatedAt" : "2026-08-19T09:19:04.54915"
+}, {
+  "id" : "d77ec5d7-2a19-4ff6-888e-cfc8700beafe",
+  "description" : "Buy shoes",
+  "status" : "DONE",
+  "createdAt" : "2026-08-20T13:18:13.191516",
+  "updatedAt" : "2026-08-20T13:18:49.008358"
+}, {
+  "id" : "a5e60fcb-52aa-4c55-b4a0-4cc559f21739",
+  "description" : "Buy watch",
+  "status" : "IN_PROGRESS",
+  "createdAt" : "2026-08-20T13:20:05.329833",
+  "updatedAt" : "2026-08-20T13:40:59.229033"
+} ]
